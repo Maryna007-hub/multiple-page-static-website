@@ -1,9 +1,12 @@
 body {
-    background-color: red;
+    background-color: rgb(235, 235, 111);
 }
-h1 {
+h1,p {
     text-align: center;
 }
 a {
-    color: white;
+    color: green;
+}
+.container {
+    justify-content: space-evenly;
 }
