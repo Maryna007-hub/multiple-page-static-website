@@ -1,6 +1,9 @@
 body {
-    background-color: aquamarine;
+    background-color: red;
 }
 h1 {
     text-align: center;
+}
+a, h1 {
+    color: white;
 }
