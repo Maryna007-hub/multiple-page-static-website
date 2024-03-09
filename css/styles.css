@@ -5,3 +5,12 @@
   body {
     background-color: var(--primary-color);
   }
+  h1,p {
+    text-align: center;
+}
+.navigation-links {
+    color: green;
+    display: flex;
+  margin-top: 10px;
+  justify-content: center;
+}
