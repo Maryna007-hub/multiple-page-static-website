@@ -9,8 +9,18 @@
     text-align: center;
 }
 .navigation-links {
-    color: green;
+ 
     display: flex;
-  margin-top: 10px;
+  margin-top: 20px;
   justify-content: center;
 }
+.navigation-links a {
+  padding-left: 20px;
+    color: green;
+  }
+  img {
+ 
+    justify-content: center;
+    border: 1 px solid beige;
+    border-radius: 5px;
+  }
